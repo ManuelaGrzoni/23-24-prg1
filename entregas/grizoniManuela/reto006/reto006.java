@@ -155,7 +155,7 @@ public class reto006{
         }
 
 
-        System.out.println("pensaste en ese numero: " + adivinarnumero);jbj
+        System.out.println("pensaste en ese numero: " + adivinarnumero);
 
         
     }
